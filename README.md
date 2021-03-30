@@ -18,7 +18,7 @@ Dentro de uma arquitetura de micro serviço precisamos de uma API para cadastro 
 	- Implemente ao menos 3 testes unitários
 	- Trate os possíveis erros com com os padrões HTTP
 	- Persistir dados utilizando Firestore (NoSQL database)
-	- O front-end precisa ser desenvolvido em Angular
+	- O front-end precisa ser desenvolvido em React
 	- O front-end precisa ter pelo menos 3 interações com a API
 ### Entrega
 	- Um repositório GitHub
